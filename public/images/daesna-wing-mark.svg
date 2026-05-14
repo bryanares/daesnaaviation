@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="960" viewBox="0 0 800 960" role="img" aria-label="DAESNA Engineering brand mark">
+  <rect width="800" height="960" fill="#F8FAFC"/>
+  <path fill="#0A2342" d="M120 780c80-200 200-360 360-480 40 120 60 260 60 420H120z"/>
+  <path fill="#1E4D8C" d="M200 780c60-160 150-300 280-400 30 100 45 220 45 360H200z"/>
+  <path fill="#3B82F6" d="M280 780c45-130 110-250 210-330 20 80 30 175 30 280H280z"/>
+  <rect x="360" y="120" width="80" height="520" fill="#0A2342"/>
+  <circle cx="400" cy="200" r="48" fill="#BFDBFE"/>
+</svg>
