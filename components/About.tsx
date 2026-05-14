@@ -34,7 +34,7 @@ export default function About() {
           <div>
             <h2 id="about-heading" className="text-brand-navy mb-2">
               {/* Replace [Engineer&apos;s Name] before launch */}
-              [Engineer&apos;s Name]
+              Davies Esbon
             </h2>
 
             <p className="text-brand-blue font-semibold text-sm mb-4 tracking-wide">
@@ -43,7 +43,7 @@ export default function About() {
 
             <div className="space-y-3 text-brand-navy/70 text-sm leading-relaxed">
               <p>
-                [Engineer&apos;s Name] combines formal training in aeronautical
+                Davies combines formal training in aeronautical
                 engineering with extensive field experience as a licensed remote UAV
                 pilot — offering clients a disciplined blend of design rigour and
                 safe, compliant flight operations.
